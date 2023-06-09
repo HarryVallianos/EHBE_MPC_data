@@ -1,0 +1,18 @@
+﻿Zone,Abbreviation,Description,Location,Orientation
+T01,SS,Basement 1,Basement,Basement
+T02,SS2,Basement 2,Basement,Basement
+T03,CU,Kitchen,First Floor,North
+T04,SM,Dining Room,First Floor,North
+T05,SA,Living Room,First Floor,South
+T06,C1,Bedroom 1,Second Floor,North
+T07,C2,Bedroom 2,Second Floor,South
+T08,C3,Bedroom 3,Second Floor,South
+T09,SB,Bathroom,Second Floor,North
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
