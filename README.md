@@ -28,6 +28,6 @@ If you use the data of this repository please reference our article:
 Matin Abtahi,
 Andreas Athienitis,
 Benoit Delcroix,
-Luis Rueda,
+Luis Rueda
 
 ## Publications using data form this repository
