@@ -2,7 +2,7 @@
 
 This repository hosts data from the Experimental House of Building Energetics (EHBE) of Hydro-Québec in Shawinigan. 
 
-It is a two-storey house with an excavated basement and an attached garage. The house is 7.6 m by 7.9 m (its footprint is 60 m2) with a fully uninsulated basement. It is a typical Québec residence, with R-20 insulation for the walls, R-30 insulation for the roof, and a total of 19 m2 of fenestration consisting of double-glass windows with an air gap. The house is oriented 35° west of south and is heated with an electric baseboard in each room controlled with an individual thermostat.
+It is a two-storey house with an excavated basement and an attached garage. The house is 7.6 m by 7.9 m (its footprint is 60 m<sup>2</sup>) with a fully uninsulated basement. It is a typical Québec residence, with R-20 insulation for the walls, R-30 insulation for the roof, and a total of 19 m<sup>2</sup> of fenestration consisting of double-glass windows with an air gap. The house is oriented 35° west of south and is heated with an electric baseboard in each room controlled with an individual thermostat.
 
 The house has been used to test real-time Model Predictive Control using different model resolutions.
 
@@ -31,3 +31,4 @@ Benoit Delcroix,
 Luis Rueda
 
 ## Publications using data form this repository
+[TBD]
