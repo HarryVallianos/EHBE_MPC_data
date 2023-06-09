@@ -24,11 +24,7 @@ If you use the data of this repository please reference our article:
 [TBD]
 
 ### Authors
-[Charalampos Vallianos](https://www.linkedin.com/in/charalampos-vallianos-629798193/),
-Matin Abtahi,
-Andreas Athienitis,
-Benoit Delcroix,
-Luis Rueda
+[TBD]
 
 ## Publications using data form this repository
 [TBD]
