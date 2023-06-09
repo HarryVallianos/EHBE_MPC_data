@@ -1,4 +1,4 @@
-# EHBE MPC experiment data
+# Experimental House of Building Energetics (EHBE) Model Predictive Control (MPC) experiment data
 
 This repository hosts data from the Experimental House of Building Energetics (EHBE) of Hydro-Québec in Shawinigan. 
 
