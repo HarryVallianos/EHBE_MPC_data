@@ -6,7 +6,8 @@ It is a two-storey house with an excavated basement and an attached garage. The 
 
 The house has been used to test real-time Model Predictive Control using different model resolutions.
 
-For more information prease refer to our article: [TBD]
+For more information prease refer to our article:
+> Charalampos Vallianos, Matin Abtahi, Andreas Athienitis, Benoit Delcroix & Luis Rueda (2023) Online model-based predictive control with smart thermostats: application to an experimental house in Québec, Journal of Building Performance Simulation, DOI: https://doi.org/10.1080/19401493.2023.2243602
 
 ## Repository structure
 
@@ -20,11 +21,12 @@ EHBE_MPC_data
 
 ## Citation
 
-If you use the data of this repository please reference our article:
-[TBD]
+If you use the data of this repository please reference the dataset on zenodo:
+>Charalampos Vallianos, Matin Abtahi, Andreas Athienitis, Benoit Delcroix, & Luis Rueda. (2023). Experimental House of Building Energetics Model Predictive Control experiment data (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8021942
 
-### Authors
-[TBD]
+and our article:
+>Charalampos Vallianos, Matin Abtahi, Andreas Athienitis, Benoit Delcroix & Luis Rueda (2023) Online model-based predictive control with smart thermostats: application to an experimental house in Québec, Journal of Building Performance Simulation, DOI: https://doi.org/10.1080/19401493.2023.2243602
 
 ## Publications using data form this repository
-[TBD]
+1. Charalampos Vallianos, Matin Abtahi, Andreas Athienitis, Benoit Delcroix & Luis Rueda (2023) Online model-based predictive control with smart thermostats: application to an experimental house in Québec, Journal of Building Performance Simulation, DOI: 10.1080/19401493.2023.2243602
+2. Charalampos Vallianos, Andreas Athienitis, Benoit Delcroix (2022) Automatic generation of multi-zone RC models using smart thermostat data from homes, Energy and Buildings, DOI: https://doi.org/10.1016/j.enbuild.2022.112571
