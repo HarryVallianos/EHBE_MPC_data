@@ -1,4 +1,6 @@
-# Experimental House of Building Energetics (EHBE) Model Predictive Control (MPC) experiment data
+# Experimental House of Building Energetics (EHBE) Model Predictive Control (MPC) experiment data 
+
+[![DOI](https://zenodo.org/badge/651703713.svg)](https://zenodo.org/doi/10.5281/zenodo.8021922)
 
 This repository hosts data from the Experimental House of Building Energetics (EHBE) of Hydro-Québec in Shawinigan. 
 
